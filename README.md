@@ -108,7 +108,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhananjayBhagat\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DhananjayBhagat\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhananjayBhagat&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -120,14 +120,14 @@
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![DhananjayBhagats Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhananjayBhagat&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+[![An image of Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DhananjayBhagat)](https://holopin.io/@DhananjayBhagat)
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
